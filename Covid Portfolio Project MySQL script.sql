@@ -1,4 +1,4 @@
--- This is project is based on Covid-19 data downloaded from " https://covid.ourworldindata.org " on Apr 5th, 2023
+-- This project is based on Covid-19 data downloaded from " https://covid.ourworldindata.org " on Apr 5th, 2023
 
 select *
 from covid_deaths
