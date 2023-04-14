@@ -1,5 +1,13 @@
 -- This project is based on Covid-19 data downloaded from " https://covid.ourworldindata.org " on Apr 5th, 2023
 
+/*
+
+Covid 19 Data Exploration 
+Skills used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
+
+*/
+
+
 select *
 from covid_deaths
 order by 3,4;
