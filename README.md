@@ -2,7 +2,8 @@
 
 This repository is a collection of projects and exercises that showcase my skills as a Data Analyst. As a fresher in the field, I am eager to learn and grow in my knowledge and abilities.
 
-Projects
+**Projects**
+
 Project 1: Exploratory Data Analysis on Air Quality Data - This project involves analyzing air quality data to gain insights into the factors that affect air quality. The project includes data cleaning, visualization, and statistical analysis.
 
 Skills
