@@ -3,13 +3,13 @@ I am an aspiring Data Analyst with a passion for uncovering insights and solving
 
 ## Skills
 ### Tools and Technologies
-Excel: Advanced Excel functions, Pivot Tables, Conditional Formatting, Data Validation, Macros, and VBA.
+- Excel: Advanced Excel functions, Pivot Tables, Conditional Formatting, Data Validation, Macros, and VBA.
 
-SQL: Writing complex queries, Data Cleaning, EDA, and Database Management.
+- SQL: Writing complex queries, Data Cleaning, EDA, and Database Management.
 
-Power BI: Dashboard Creation, DAX, Power Query, and Data Modeling.
+- Power BI: Dashboard Creation, DAX, Power Query, and Data Modeling.
 
-Tableau: Interactive Dashboard Creation, Storytelling, and Data Visualization.
+- Tableau: Interactive Dashboard Creation, Storytelling, and Data Visualization.
 
 ## Projects
 
