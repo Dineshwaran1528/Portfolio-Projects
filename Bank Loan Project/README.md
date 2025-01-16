@@ -47,12 +47,12 @@ Created visuals that provide actionable insights into customer behavior and lend
 
 1. Summary Page Screenshot:
 
-![Image](https://github.com/user-attachments/assets/5d2c4420-d0c6-438d-bcc5-53c742019826)
+![Image](https://github.com/user-attachments/assets/9445abea-1806-4dba-a236-5fae3c81e049)
 
-2. Details Page Screenshot:
+2. Overview Page Screenshot:
 
-![Image](https://github.com/user-attachments/assets/8a192a23-d904-4f92-8d3f-d70b96d7da06)
+![Image](https://github.com/user-attachments/assets/371b0ace-e3ca-4c05-b723-7410d99b06c1)
 
-3. Overview Page Screenshot:
+3. Details Page Screenshot:
 
-![Image](https://github.com/user-attachments/assets/5f1bd743-9e0a-4e1a-95f2-130b2f1e5d61)
+![Image](https://github.com/user-attachments/assets/10cc8726-3e05-4a5b-9136-f1a1b8a33df4)
