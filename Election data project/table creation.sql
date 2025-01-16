@@ -146,3 +146,21 @@ where Alliance IS NULL;
 
 update constituencywise_details
 set Constituency_ID = trim(replace(replace(Constituency_ID,'\r',''),'\n',''));
+
+-- or
+
+UPDATE constituencywise_details
+SET Constituency_ID = TRIM(REPLACE(REPLACE(Constituency_ID, CHAR(13),''),CHAR(10),''));
+
+
+/*Notes:
+After running the above query, you can verify that the unwanted characters have been removed by checking the data:
+
+SELECT Constituency_ID, LENGTH(Constituency_ID) FROM constituencywise_details;
+
+Always back up your table before running update queries, especially if they modify a large number of rows.
+If you’re unsure of the presence of these characters, you can first identify affected rows:
+
+SELECT * 
+FROM constituencywise_details
+WHERE Constituency_ID LIKE '%\r%' OR Constituency_ID LIKE '%\n%';*/
