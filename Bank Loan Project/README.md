@@ -43,4 +43,16 @@ Analyzed loan applications, funded amounts, and received amounts across various 
 - Demographics: Employment length, loan purpose, and home ownership status.
 - Loan Attributes: Term period and region.
 
-Created visuals that provide actionable insights into customer behavior and lending strategies.
+Created visuals that provide actionable insights into customer behavior and lending strategies which is attached below for reference.
+
+1. Summary Page Screenshot:
+
+![Image](https://github.com/user-attachments/assets/5d2c4420-d0c6-438d-bcc5-53c742019826)
+
+2. Details Page Screenshot:
+
+![Image](https://github.com/user-attachments/assets/8a192a23-d904-4f92-8d3f-d70b96d7da06)
+
+3. Overview Page Screenshot:
+
+![Image](https://github.com/user-attachments/assets/5f1bd743-9e0a-4e1a-95f2-130b2f1e5d61)
