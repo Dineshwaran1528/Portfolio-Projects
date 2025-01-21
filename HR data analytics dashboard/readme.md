@@ -14,7 +14,7 @@ The dashboard provides insights into key HR metrics, helping stakeholders unders
 
 ## Visuals and Insights
 Added a variety of visuals to represent data effectively:
-- Cards: Displayed KPIs like total employees, attrition count, and job satisfaction.
+- Cards: Displayed KPIs like total employees, attrition count, attrition rate, active employees and average age.
 ##### Department-Wise Attrition
 ![Image](https://github.com/user-attachments/assets/e50fb62f-34c9-4f68-85b5-05c60703bd9b)
 - R&D Department: Highest attrition rate, over 50%.
@@ -28,8 +28,8 @@ Added a variety of visuals to represent data effectively:
 - Female Employees: 40%.
 ##### Job Satisfaction Ratings
 ![Image](https://github.com/user-attachments/assets/c8600a44-735b-4344-b071-e4028ef45812)
-- Top Role: Sales Executive, with the highest satisfaction rating.
-- Lowest Role: Human Resources role, with the least satisfaction rating.
+- Sales Executive, with the highest satisfaction rating.
+- Human Resources role, with the least satisfaction rating.
 ##### Education-Wise Attrition
 ![Image](https://github.com/user-attachments/assets/cf0592c7-18cf-47c5-a06e-01fb1654a876)
 - Medical Background: Highest attrition rate at nearly 65%.
