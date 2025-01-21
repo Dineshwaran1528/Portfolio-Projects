@@ -29,11 +29,11 @@ The dataset was analyzed to answer key electoral questions and derive metrics:
 
 ##### Winning Candidate Analysis:
 
-Extracted winning candidate's name, party name, total votes, and margin of victory for specific states and constituencies.
+- Extracted winning candidate's name, party name, total votes, and margin of victory for specific states and constituencies.
 
 ##### Vote Distribution:
 
-Distribution of EVM votes vs. postal votes for candidates in specific constituencies.
+- Distribution of EVM votes vs. postal votes for candidates in specific constituencies.
 
 ##### State-Level Insights:
 
@@ -42,11 +42,11 @@ Distribution of EVM votes vs. postal votes for candidates in specific constituen
 
 ##### Top Performing Candidates:
 
-Identified the top 10 candidates who received the highest number of EVM votes in each constituency.
+- Identified the top 10 candidates who received the highest number of EVM votes in each constituency.
 
 ##### Constituency-Wise Analysis:
 
-Determined the winner and runner-up for each constituency in a specific state for the 2024 elections.
+- Determined the winner and runner-up for each constituency in a specific state for the 2024 elections.
 
 ##### State-Specific Analysis (Tamil Nadu):
 
