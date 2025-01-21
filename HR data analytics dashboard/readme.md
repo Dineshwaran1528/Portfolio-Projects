@@ -24,6 +24,8 @@ Added a variety of visuals to represent data effectively:
 ![Image](https://github.com/user-attachments/assets/3de66f4a-ffd9-458b-8189-cf61aa730c9d)
 - Age Band 25-44: Major workforce strength, comprising 70%.
 - Other Age Groups: Account for the remaining 30%.
+- Male Employees: 60%.
+- Female Employees: 40%.
 ##### Job Satisfaction Ratings
 ![Image](https://github.com/user-attachments/assets/c8600a44-735b-4344-b071-e4028ef45812)
 - Top Role: Sales Executive, with the highest satisfaction rating.
@@ -37,8 +39,7 @@ Added a variety of visuals to represent data effectively:
 - Male Employees: 65% attrition rate.
 - Female Employees: Below 40% attrition rate.
 - Age Band 25-44: Represents 70% of total attrition.
-- Male Employees: 60%.
-- Female Employees: 40%.
+
 ### Interactivity
 - Integrated a slicer for filtering data by Education allowing users to explore data dynamically.
 ## Conclusion
