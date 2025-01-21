@@ -318,7 +318,7 @@ with Candidate_rank as (
         join partywise_results pr on cr.Party_ID=pr.Party_ID
         join statewise_results sr on cr.Parliament_Constituency=sr.Parliament_Constituency
         join states s on sr.State_ID=s.State_ID
-where s.State = 'Maharashtra')
+where s.State = 'Tamil Nadu')
 
 select cr.Constituency_Name,
 max(case when rc.Voter_Rank = 1 then rc.Candidate end) as Winning_Candidate,
@@ -345,4 +345,4 @@ join constituencywise_details cd on cr.Constituency_ID=cd.Constituency_ID
 join partywise_results pr on cr.Party_ID=pr.Party_ID
 join statewise_results sr on cr.Parliament_Constituency=sr.Parliament_Constituency
 join states s on sr.State_ID=s.State_ID
-where s.State='Maharashtra';
+where s.State='Tamil Nadu';
